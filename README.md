@@ -12,17 +12,11 @@ Salut tout monde, je me nomme Fatao et je suis devellopeur de bot. plus precisem
 
 ##
 ## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗺𝗲
-* [𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽](https://api.whatsapp.com/send?phone=+918811074852)
-<br>
-
-* I am from India, Assam.
-* Cool Bots development.
-* I'm studying at Dibrugarh. 
-
+* [𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽](https://api.whatsapp.com/send?phone=+22651463203)
 <br>
 
 
-| ![Pika's GitHub stats](https://github-readme-stats.vercel.app/api?username=PikaBotz&show_icons=true&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=PikaBotz&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
+| ![Fatao GitHub stats](https://github-readme-stats.vercel.app/api?username=Nignanfatao&show_icons=true&theme=tokyonight) | ![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nignanfatao&theme=radical&hide_border=true&layout=compact&langs_count=6&hide_title=true) |
 | ----- | ----- |
    
 
@@ -37,12 +31,12 @@ Salut tout monde, je me nomme Fatao et je suis devellopeur de bot. plus precisem
 
 # > <code>⠀⠀🌟⠀⠀Top Repositories⠀⠀</code>
 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PikaBotz&repo=Anya-pika-MD-v2&theme=vision-friendly-dark)](https://github.com/PikaBotz/Anya-pika-MD-v2) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PikaBotz&repo=Foxy_shadow-MD&theme=vision-friendly-dark)](https://github.com/PikaBotz/Foxy_shadow-MD) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nignanfatao&repo=Anya-pika-MD-v2&theme=vision-friendly-dark)](https://github.com/Nignanfatao/Anya-MD-v2) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nignanfatao&repo=Zokou&theme=vision-friendly-dark)](https://github.com/Nignanfatao/Zokou) |
 | ----- | ----- |
 
 <!--<code> <a href="https://matepedia.000webhostapp.com/HTML's/index.html" target="_blank"><img height="335px" align="center" src="https://matepedia.000webhostapp.com/Imagenes/NewSpace%20NewNew!!!!.png"></a> </code>-->
 
 # > <code>⠀⠀💼⠀⠀Activity⠀⠀</code>
-[![𝕻𝖎𝖐𝖆's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PikaBotz&theme=high-contrast)](https://github.com/PikaBotz)
+[![𝕻𝖎𝖐𝖆's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nignanfatao&theme=high-contrast)](https://github.com/Nignanfatao)
 
 ![RWBY Image Beach Wallpaper](https://user-images.githubusercontent.com/84690368/180107953-1166e03c-a5af-42ec-a767-f9cce4b41873.png)
