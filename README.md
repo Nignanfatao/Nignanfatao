@@ -1,6 +1,6 @@
 <!--https://cdn.discordapp.com/emojis/905827157782200320.png?size=80-->
 
-# <h1 align="center"> <code>[<img src="https://i.imgur.com/1SmcRz9.jpg" height="110px">](https://www.facebook.com/joansebastian.cardozosalinas.925/)⠀Salut⠀|⠀⠀👋⠀⠀| [<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=falsespo" background="#fff" height="110px">](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)</code> </h1>
+# <h1 align="center"> <code>[<img src="https://i.imgur.com/1SmcRz9.jpg" height="110px">]⠀Salut⠀|⠀⠀👋⠀⠀| [<img src="https://spotify-github-profile.vercel.app/api/view?uid=uwjnzqtalkghfb2gd7ueltxzb&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=falsespo" background="#fff" height="110px">](https://open.spotify.com/user/uwjnzqtalkghfb2gd7ueltxzb)</code> </h1>
 
 <div align="center">
 <img height="165px" src='https://github-readme-stats.vercel.app/api?username=Nignanfatao&show_icons=true&include_all_commits=true&theme=mere&hide_border=true' align="right">
